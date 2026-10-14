@@ -15,6 +15,9 @@ Version 10.50 xx-xxx-2026
 the configured header installation directory and handle absolute header and
 library installation directories.
 
+2. Restore Unicode-property character class compilation performance using
+shared precomputed bitmaps for code points below 256.
+
 
 Version 10.49 28-September-2026
 -------------------------------
